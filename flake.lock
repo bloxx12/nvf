@@ -175,16 +175,16 @@
     "plugin-base16": {
       "flake": false,
       "locked": {
-        "lastModified": 1716483968,
-        "narHash": "sha256-GRF/6AobXHamw8TZ3FjL7SI6ulcpwpcohsIuZeCSh2A=",
-        "owner": "rrethy",
-        "repo": "base16-nvim",
-        "rev": "6ac181b5733518040a33017dde654059cd771b7c",
+        "lastModified": 1733662806,
+        "narHash": "sha256-2ZulDm/vC2QhpoxjBV7k02c8HGp5V0H2LUQLl7v9ssw=",
+        "owner": "echasnovski",
+        "repo": "mini.base16",
+        "rev": "6bc6bb3d76174bad4089590df36375bb5d0660ac",
         "type": "github"
       },
       "original": {
-        "owner": "rrethy",
-        "repo": "base16-nvim",
+        "owner": "echasnovski",
+        "repo": "mini.base16",
         "type": "github"
       }
     },
